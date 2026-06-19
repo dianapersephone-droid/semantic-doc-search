@@ -1,0 +1,6 @@
+Artificial intelligence helps machines perform tasks that normally require human intelligence.
+Cybersecurity protects computer systems and networks from digital attacks.
+Product management focuses on understanding users and building valuable products.
+Technical writing explains complex information in a clear and simple way.
+Machine learning allows systems to learn patterns from data.
+Cloud computing provides computing services over the internet.
